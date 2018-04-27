@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/ProyectoSD.dir/Server.cpp.o CMakeFiles/ProyectoSD.dir/Client.cpp.o CMakeFiles/ProyectoSD.dir/ClientInfo.cpp.o CMakeFiles/ProyectoSD.dir/SendFiles.cpp.o CMakeFiles/ProyectoSD.dir/ReciveFiles.cpp.o CMakeFiles/ProyectoSD.dir/main.cpp.o  -o ProyectoSD 
